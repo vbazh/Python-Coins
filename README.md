@@ -1,2 +1,2 @@
 # Python-test
-Just some easy progs on Python
+Just some simple progs on Python
